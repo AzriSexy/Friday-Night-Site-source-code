@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logo fnf site.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="logomove0000" x="0" y="0" width="316" height="177" pivotX="-157.15" pivotY="462.85"/>
+	<SubTexture name="logomove0001" x="321" y="0" width="316" height="177"/>
+	<SubTexture name="logomove0002" x="642" y="0" width="316" height="177"/>
+	<SubTexture name="logomove0003" x="963" y="0" width="316" height="177"/>
+	<SubTexture name="logomove0004" x="1284" y="0" width="316" height="177"/>
+	<SubTexture name="logomove0005" x="1605" y="0" width="316" height="177"/>
+	<SubTexture name="logomove0006" x="0" y="182" width="316" height="177"/>
+	<SubTexture name="logomove0007" x="321" y="182" width="316" height="177"/>
+	<SubTexture name="logomove0008" x="642" y="182" width="316" height="177"/>
+	<SubTexture name="logomove0009" x="963" y="182" width="316" height="177"/>
+	<SubTexture name="logomove0010" x="1284" y="182" width="316" height="177"/>
+	<SubTexture name="logomove0011" x="1605" y="182" width="316" height="177"/>
+	<SubTexture name="logomove0012" x="0" y="364" width="316" height="177"/>
+	<SubTexture name="logomove0013" x="321" y="364" width="316" height="177"/>
+	<SubTexture name="logomove0014" x="642" y="364" width="316" height="177"/>
+	<SubTexture name="logomove0015" x="963" y="364" width="316" height="177"/>
+	<SubTexture name="logomove0016" x="1284" y="364" width="316" height="177"/>
+	<SubTexture name="logomove0017" x="1605" y="364" width="316" height="177"/>
+	<SubTexture name="logomove0018" x="0" y="546" width="316" height="177"/>
+</TextureAtlas>
